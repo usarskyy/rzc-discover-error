@@ -1,0 +1,14 @@
+.vs/
+
+
+*.suo
+*.user
+*.orig
+
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+
+packages/
+
+node_modules/

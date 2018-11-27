@@ -1,0 +1,24 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56521/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "Orderly.RestaurantWeb": {
+      "commandName": "Executable",
+      "executablePath": "E:\\PROJECTS\\Orderly\\Orderly.RestaurantWeb\\bin\\Debug\\netcoreapp2.2\\win7-x86\\Orderly.RestaurantWeb.exe",
+      "commandLineArgs": "--host:localhost --port:56521",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:56521/"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress"
+    }
+  }
+}
